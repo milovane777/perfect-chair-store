@@ -2,14 +2,17 @@
 
 | 무엇 | 어디 |
 |---|---|
-| **작업지시서 (먼저 읽으십시오)** | [`APP_STORE_제출_작업지시서.md`](APP_STORE_제출_작업지시서.md) |
+| **작업지시서 (먼저 읽으십시오)** | [`APP_STORE_제출_작업지시서.md`](APP_STORE_제출_작업지시서.md) — 머리말에 진행 상황 표 |
+| **스크린샷 업로드 지시서 (지금 남은 작업)** | [`스크린샷_업로드_지시서.md`](스크린샷_업로드_지시서.md) |
 | 10개 언어 메타데이터 | [`metadata/`](metadata/) — 로케일별 폴더, 칸 이름 = 파일 이름 |
 | 스크린샷 | [`screenshots/`](screenshots/) — 기기별 폴더, 폴더 이름 = 업로드 칸 |
 | 개인정보 처리방침 | https://milovane777.github.io/perfect-chair-privacy/ |
 | 고객 지원 | https://milovane777.github.io/perfect-chair-privacy/support.html |
 
-IPA 는 저장소에 넣지 않습니다(27 MB). GitHub 릴리스로 내려받거나
-`flutter build ipa --release` 로 다시 만드십시오.
+**IPA는 2026-11-05에 App Store Connect로 업로드 완료되었습니다.** 다시 올릴 필요 없습니다.
+파일 자체는 저장소에 넣지 않았습니다(27 MB) — 필요하면 GitHub 릴리스 `v1.0.0-build1`에서 받으십시오.
+
+**남은 작업은 스크린샷 업로드 하나입니다.** `screenshots/` 의 15장을 그대로 쓰십시오 — 다시 찍지 마십시오.
 
 ---
 
