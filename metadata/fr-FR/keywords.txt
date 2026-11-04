@@ -1,0 +1,1 @@
+coiffeur,salon,coiffure,coloration,formule,client,fiche,barbier,hors ligne,confidentialite

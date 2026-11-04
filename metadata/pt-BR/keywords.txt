@@ -1,0 +1,1 @@
+cabeleireiro,salao,estilista,coloracao,formula,cliente,ficha,barbearia,offline,privacidade,quimica

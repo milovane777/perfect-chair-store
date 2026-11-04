@@ -1,0 +1,1 @@
+peluqueria,peluquero,salon,estilista,color,formula,cliente,ficha,barberia,sin conexion,privacidad
