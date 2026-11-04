@@ -18,9 +18,9 @@
 
 | # | 준비물 | 어디에 있나 |
 |---|---|---|
-| 1 | 서명된 IPA 파일 | 이 저장소 릴리스 또는 `build/ios/ipa/Perfect Chair.ipa` (27 MB) |
-| 2 | 스크린샷 | 이 저장소 `store/screenshots/` — iPhone 6.9형, iPhone 6.3형, iPad 13형 |
-| 3 | 10개 언어 메타데이터 | 이 저장소 `store/metadata/<로케일>/` — 복사·붙여넣기용 텍스트 파일 |
+| 1 | 서명된 IPA 파일 | https://github.com/milovane777/perfect-chair-store/releases/tag/v1.0.0-build1 (27 MB) |
+| 2 | 스크린샷 | https://github.com/milovane777/perfect-chair-store → `screenshots/` — iPhone 6.9형, iPhone 6.3형, iPad 13형 |
+| 3 | 10개 언어 메타데이터 | 같은 저장소 `metadata/<로케일>/` — 복사·붙여넣기용 텍스트 파일 |
 | 4 | 개인정보 처리방침 URL | `https://milovane777.github.io/perfect-chair-privacy/` |
 | 5 | 고객 지원 URL | `https://milovane777.github.io/perfect-chair-privacy/support.html` |
 
